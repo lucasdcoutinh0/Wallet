@@ -7,5 +7,6 @@ DApp is the Future.
 
 The wallet was builded using react.js as main framework. We also have solidity been used to do and deploy the smart contracts of the ERC20 Token. To do the connection between React and solidity we are using ethers.js
 
-##This is everithing for now
+### This is everithing for now
+
 Please send any questions or sugestions to my linkedin [https://www.linkedin.com/in/lucasdcoutinho/]
